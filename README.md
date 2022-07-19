@@ -17,6 +17,9 @@ Copy the **https** or **SSH** address on the code
 Clone the repository using your favorite code editor.
 Once you've open the repo on your VScode run it using index.html on src folder.
 
+### Live version
+http://127.0.0.1:5500/src/index.html
+
 ## Author
 
 👤 **Reginah Nonhlanhla**
