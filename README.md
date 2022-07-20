@@ -1,5 +1,5 @@
 # To-do-list
-In this project I will build a simple HTML list of To Do tasks. This simple web page will be built using webpack and served by a webpack dev server.
+Patner code review
 
 ## Built With
 
@@ -16,6 +16,9 @@ Access the live source on - [Live Demo](https://github.com/29td/To-do-list/tree/
 Copy the **https** or **SSH** address on the code
 Clone the repository using your favorite code editor.
 Once you've open the repo on your VScode run it using index.html on src folder.
+
+### Live version
+http://127.0.0.1:5500/src/index.html
 
 ## Author
 
